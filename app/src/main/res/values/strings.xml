@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesseractLauncher</string>
+
+    <color name="colorDivider">#ffffff</color>
+</resources>
